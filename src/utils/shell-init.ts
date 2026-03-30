@@ -30,7 +30,7 @@ interface UnsetupResult {
 
 function bashInit(): string {
   return `# LocalPOV shell integration — captures terminal output for AI agents
-# https://github.com/localpov/localpov
+# https://github.com/manish-bhanushali-404/localpov
 # Installed by: localpov setup
 
 __localpov_init() {
@@ -112,7 +112,7 @@ fi
 
 function zshInit(): string {
   return `# LocalPOV shell integration — captures terminal output for AI agents
-# https://github.com/localpov/localpov
+# https://github.com/manish-bhanushali-404/localpov
 # Installed by: localpov setup
 
 __localpov_init() {
@@ -161,7 +161,7 @@ fi
 
 function fishInit(): string {
   return `# LocalPOV shell integration — captures terminal output for AI agents
-# https://github.com/localpov/localpov
+# https://github.com/manish-bhanushali-404/localpov
 # Installed by: localpov setup
 
 if not set -q LOCALPOV_SESSION
@@ -206,7 +206,7 @@ end
 function powershellInit(): string {
   const sessionDir = SESSION_DIR.replace(/\\/g, '\\\\');
   return `# LocalPOV shell integration — captures terminal output for AI agents
-# https://github.com/localpov/localpov
+# https://github.com/manish-bhanushali-404/localpov
 # Installed by: localpov setup
 
 if (-not $env:LOCALPOV_SESSION) {

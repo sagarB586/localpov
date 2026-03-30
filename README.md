@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/localpov)](https://www.npmjs.com/package/localpov)
 [![npm downloads](https://img.shields.io/npm/dw/localpov)](https://www.npmjs.com/package/localpov)
-[![license](https://img.shields.io/npm/l/localpov)](https://github.com/localpov/localpov/blob/main/LICENSE)
+[![license](https://img.shields.io/npm/l/localpov)](https://github.com/manish-bhanushali-404/localpov/blob/main/LICENSE)
 [![Node.js 18+](https://img.shields.io/badge/Node.js-18%2B-brightgreen)](https://nodejs.org)
 
 Development context bridge for AI coding agents. One MCP server, 14 tools.

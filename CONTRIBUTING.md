@@ -5,7 +5,7 @@ Thanks for your interest in contributing!
 ## Setup
 
 ```bash
-git clone https://github.com/manish-git-login/localpov.git
+git clone https://github.com/manish-bhanushali-404/localpov.git
 cd localpov
 npm install
 npm run build
@@ -62,7 +62,7 @@ bin/
 
 ## Reporting issues
 
-Open an issue at https://github.com/manish-git-login/localpov/issues with:
+Open an issue at https://github.com/manish-bhanushali-404/localpov/issues with:
 
 - What you expected
 - What happened
